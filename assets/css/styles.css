@@ -45,22 +45,36 @@ h1, h2 {
 }
 
 /* ===== Iconos de redes ===== */
+.redes {
+    text-align: center; 
+}
+
 .redes a {
-    font-size: 2.2rem; /* un poco más grande */
+    font-size: 2.2rem; 
     margin: 0 12px;
+    text-decoration: none; 
+    display: inline-block; 
+    transition: transform 0.2s ease; 
 }
 
 .redes a:hover {
-    transform: scale(1.2); /* efecto “pop” al pasar el ratón */
+    transform: scale(1.2); 
 }
+
 
 /* ===== Correo ===== */
 .correo span {
     color: #f5f5f5;
+    font-size: large;
 }
 
 .correo i {
-    color: #d14836; /* rojo Gmail */
+    color: #d14836; 
+}
+
+/* ===== Sección de contacto ===== */
+.contact {
+    background-color: black;
 }
 
 /* ===== Responsive ===== */
