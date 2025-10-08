@@ -24,3 +24,7 @@ Este proyecto es una aplicación de portafolio personal desarrollada para mostra
     ```
 2. Abre el proyecto en tu editor favorito.
 3. Ejecuta en tu navegador el archivo `index.html`.
+
+## Despliegue
+
+Se puede comprobar el despliegue en https://jesustejon.github.io/portafolio/
